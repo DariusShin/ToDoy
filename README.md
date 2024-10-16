@@ -1,7 +1,14 @@
 ## ToDoy
 > Group Assignment for the course `TEB10143 - Object Oriented Programming` in [*Universiti Teknologi PETRONAS*](https://www.utp.edu.my/Pages/Home.aspx). 
 
+![Project_ToDoy_Demo.jpeg](src%2Fmain%2Fresources%2FProject_ToDoy_Demo.jpeg)
 ToDoy is a **desktop to-do list application** offers the features to help people to manage their task without feeling stress. It helps people to plan their own daily work task and handle the deadlines easily.
+
+### User Interface
+#### Dark Mode Interface
+![Projects_ToDoy_Dark.jpeg](src%2Fmain%2Fresources%2FProjects_ToDoy_Dark.jpeg)
+#### Light Mode Interface
+![Projects_ToDoy_Light.jpeg](src%2Fmain%2Fresources%2FProjects_ToDoy_Light.jpeg)
 
 ### Technologies involved
  - Java

@@ -12,3 +12,4 @@ ToDoy is a **desktop to-do list application** offers the features to help people
 > - Cascading Style Sheet (CSS)
 
 ### Teammates
+1. @waihauuuuu
